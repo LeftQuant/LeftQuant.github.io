@@ -1,2 +1,2 @@
-# LeftQuant.github.io
-Site Base
+# LeftQuant Blog
+Home Page
